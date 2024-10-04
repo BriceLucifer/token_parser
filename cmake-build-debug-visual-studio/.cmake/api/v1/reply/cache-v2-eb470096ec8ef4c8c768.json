@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/23766/Desktop/Monkey/cmake-build-debug-visual-studio"
+			"value" : "c:/Users/23766/Desktop/token_parser/cmake-build-debug-visual-studio"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -163,10 +163,10 @@
 				},
 				{
 					"name" : "HELPSTRING",
-					"value" : "No help, variable specified on the command line."
+					"value" : "C compiler"
 				}
 			],
-			"type" : "UNINITIALIZED",
+			"type" : "STRING",
 			"value" : "C:/Program Files/LLVM/bin/clang.exe"
 		},
 		{
@@ -459,7 +459,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/23766/Desktop/Monkey/cmake-build-debug-visual-studio/CMakeFiles/pkgRedirects"
+			"value" : "C:/Users/23766/Desktop/token_parser/cmake-build-debug-visual-studio/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -519,7 +519,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/23766/Desktop/Monkey"
+			"value" : "C:/Users/23766/Desktop/token_parser"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1151,7 +1151,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/23766/Desktop/Monkey/cmake-build-debug-visual-studio"
+			"value" : "C:/Users/23766/Desktop/token_parser/cmake-build-debug-visual-studio"
 		},
 		{
 			"name" : "Monkey_IS_TOP_LEVEL",
@@ -1175,7 +1175,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/23766/Desktop/Monkey"
+			"value" : "C:/Users/23766/Desktop/token_parser"
 		}
 	],
 	"kind" : "cache",

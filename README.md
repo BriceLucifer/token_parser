@@ -1,2 +1,2 @@
 # token_parser
-a prief token parser in c
+a easy token parser in c; using OOP method in c which kind of interesting;
