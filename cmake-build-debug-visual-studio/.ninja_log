@@ -1,0 +1,12 @@
+# ninja log v5
+6	35	7496738953772741	CMakeFiles/Monkey.dir/main.c.obj	79d1cd865c670342
+0	45	7496749554153533	CMakeFiles/Monkey.dir/ast.c.obj	396f442f79f7927f
+3	116	7496738954587560	CMakeFiles/Monkey.dir/lexer.c.obj	d206af6c36784f63
+8	69	7496747626733399	CMakeFiles/Monkey.dir/evaluator.c.obj	8c6637772d4ef80d
+24	70	7496738954122430	CMakeFiles/Monkey.dir/token.c.obj	362d637932248f9f
+0	96	7496738954393242	CMakeFiles/Monkey.dir/repl.c.obj	1e505c1d556ffde2
+11	101	7496738954443254	CMakeFiles/Monkey.dir/parser.c.obj	11ccebfa70ef5c7c
+5	76	7496747626793343	CMakeFiles/Monkey.dir/environment.c.obj	a9288047a4499d69
+1	110	7496748579936766	CMakeFiles/Monkey.dir/object.c.obj	e224ee9de0e2b970
+46	124	7496749554773374	Monkey.exe	30a9c1853cb694c
+1	189	7497250674370032	Monkey.exe	b7a745116f44373e
